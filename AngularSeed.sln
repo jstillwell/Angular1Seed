@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularSeed.UI", "UI\AngularSeed.UI.csproj", "{E737DA94-5D28-49C4-AB0F-7386A3A3314B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E737DA94-5D28-49C4-AB0F-7386A3A3314B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E737DA94-5D28-49C4-AB0F-7386A3A3314B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E737DA94-5D28-49C4-AB0F-7386A3A3314B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E737DA94-5D28-49C4-AB0F-7386A3A3314B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
