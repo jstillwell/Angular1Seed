@@ -49,5 +49,10 @@
     @Scripts.Render("~/bundles/angular")
     @Scripts.Render("~/bundles/controllers")
     @RenderSection("scripts", required: false)
+    <script>
+        $('.nav a').on('click', function () {
+            $('.navbar-toggle').click();
+        });
+    </script>
 </body>
 </html>
